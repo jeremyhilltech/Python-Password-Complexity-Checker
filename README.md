@@ -1,5 +1,4 @@
-# PRODIGY_CS_03
-Password Complexity Checker
+# Python Password Complexity Checker
 
 The program takes user input and rates the combination of lower case letters, upper case letters, numerics, special characters, and white space counts that are entered. The program measures the complexity on a scale of 1 to 5 with 1 being the weakest and 5 being the strongest or most complex. The user gets immediate feedback from the program on the level of complexity and makes recommendations accordingly depending on the returned score. 
 
